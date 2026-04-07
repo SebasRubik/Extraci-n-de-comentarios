@@ -1,0 +1,17 @@
+youtube-comment-downloader
+sentence-transformers
+umap-learn
+hdbscan
+vaderSentiment
+networkx
+matplotlib
+seaborn
+plotly
+ollama
+pandas
+numpy
+scikit-learn
+jupyter
+langdetect
+ipykernel
+nbformat
