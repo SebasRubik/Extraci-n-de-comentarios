@@ -1,0 +1,15 @@
+# Entornos virtuales (cualquier nombre habitual)
+.venv/
+venv/
+env/
+
+# Herramientas / caché local
+.claude/
+.code-review-graph/
+.ruff_cache/
+
+# Datos generados en el análisis (embeddings, CSV limpio, figuras)
+data/processed/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
